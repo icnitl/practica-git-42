@@ -1,0 +1,23 @@
+{
+  "name": "practicagitb42",
+  "version": "1.0.0",
+  "description": "practica git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icnitl/practica-git-42.git"
+  },
+  "keywords": [
+    "git",
+    "batch42"
+  ],
+  "author": "Icnitl Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icnitl/practica-git-42/issues"
+  },
+  "homepage": "https://github.com/icnitl/practica-git-42#readme"
+}
